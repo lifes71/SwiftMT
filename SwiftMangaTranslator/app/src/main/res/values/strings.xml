@@ -1,0 +1,39 @@
+<resources>
+    <!-- Translation Layout Strings -->
+    <string name="select_manga_folder">Select Manga Folder</string>
+    <string name="no_folder_selected">No folder selected</string>
+    <string name="browse">Browse</string>
+    <string name="translation_options">Translation Options</string>
+    <string name="target_language">Target Language</string>
+    <string name="preserve_original_files">Preserve original files</string>
+    <string name="translation_progress">Translation Progress</string>
+    <string name="cancel">Cancel</string>
+    <string name="start_translation">Start Translation</string>
+    <string name="progress_detail">Chapter %1$s: %2$d/%3$d images processed</string>
+    <string name="invalid_folder">Invalid folder structure</string>
+    <string name="progress_format">Processing %1$d of %2$d images (%3$d successful)</string>
+    <string name="chapter_progress">Chapter %1$s: %2$d/%3$d images processed</string>
+    <string name="overall_progress">Overall Progress: %1$d/%2$d chapters completed</string>
+    <string name="translation_failed">Translation failed: %1$s</string>
+    <string name="processing_complete">Translation complete: %1$d images processed</string>
+    <string name="status_processing">Processing...</string>
+    <string name="status_complete">Complete</string>
+    <string name="status_with_errors">Completed with some errors</string>
+    <string name="select_folder">Select Folder</string>
+    <string name="back">Back</string>
+    <string name="select">Select</string>
+    <string name="language_selection">Language Selection</string>
+    <string name="ocr_model">OCR Model</string>
+    <string name="ml_kit">ML Kit</string>
+    <string name="tesseract">Tesseract</string>
+    <string name="translator_model">Translator</string>
+    <string name="text_orientation">Text Orientation</string>
+    <string name="vertical">Vertical</string>
+    <string name="horizontal">Horizontal</string>
+    <string name="ocr_help">Help with OCR selection</string>
+    <string name="ocr_help_text">ML Kit: Better for clean text\nTesseract: Better for stylized text</string>
+    <string name="translator_help_text">ML Kit: Offline capable\nPapago: Online only, more accurate</string>
+    <string name="orientation_help_text">Vertical: Traditional manga\nHorizontal: Web comics</string>
+</resources>
+
+</resources>
